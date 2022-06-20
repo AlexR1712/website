@@ -1,0 +1,25 @@
+languageCode = "en-au"
+languageName = "English (Australia)"
+displayName = ":flag-au:"
+isoCode = "en-AU"
+weight = 1
+rtl = false
+
+title = "Alexander On Software"
+# logo = "img/logo.jpg"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+copyright = "&copy; 2022 Congo contributors"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Alexander J. Rodríguez D."
+  image = "img/author.jpg"
+  headline = "CEO at Blockshift Network / Marketing Fino C.A"
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  links = [
+    { twitter = "https://twitter.com/" },
+    { facebook = "https://facebook.com/" },
+    { linkedin = "https://linkedin.com/" },
+    { youtube = "https://youtube.com/" },
+  ]
